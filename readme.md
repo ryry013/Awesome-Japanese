@@ -204,6 +204,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 * Web
 	* [Jisho](http://jisho.org/) - Gold standard online Japanese dictionary platform.
+	* [Jibiki](https://jibiki.app/) - Relatively new dictionary platform, still in beta.
 	* [Weblio](http://www.weblio.jp/) - Japan popular dictionary website without en<->jp, jp<->jp, and more.:jp:
 	* [Google Translate](https://translate.google.com/) - Supports voice and image translation, mobile app supports offline translation.:iphone:
 * Software
