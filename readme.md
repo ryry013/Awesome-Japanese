@@ -66,7 +66,7 @@ Description: The second edition of the most highly regarded teaching textbook on
 	* [Genki Answer Key](http://amzn.to/2sX4ZF8)
 * Anki Deck:card_index:
 	* [Genki 1 & 2 COMPLETE book 1 + JLPT N5 N4](https://ankiweb.net/shared/info/1132238466) - ALL the vocab, grammar and sentences from Genki 1 & 2, JLPT N5 & N4 vocab not present in Genki. :warning: Project dropped.
-	* [Genki 2nd Edition Vocabulary](https://ankiweb.net/shared/info/1132238466) - compilation of vocabulary both from Grammar and Reading sections of both Genki 1 & 2.
+	* [Genki 2nd Edition Vocabulary](https://ankiweb.net/shared/info/473118228) - compilation of vocabulary both from Grammar and Reading sections of both Genki 1 & 2.
 * [Google Drive](https://drive.google.com/open?id=0B7RbJJM_m3GDUGw3VFlVWkd0bjA)
 
 ### Tobira:man:
