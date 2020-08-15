@@ -35,9 +35,9 @@
 
 	* [Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide) - from /r/learnjapanese subreddit.
 	* [DJT-Itazuraneko guide](https://itazuraneko.neocities.org/learn/guide.html) - A well-written guide with lots of resources
-	* [All Japanese All The Time (Overview/Timeline)](https://www.youtube.com/watch?v=9PdPOxiWWuU) - For people willing to completely immerse themselves in Japanese.
+	* [All Japanese All The Time (Overview/Timeline)](http://www.alljapaneseallthetime.com/blog/about/overview-page/) - For people willing to completely immerse themselves in Japanese.
 	* [Japanese Walkthrough](http://japaneselevelup.com/japanese-quest-walkthrough/) - A visual learning guide.
-	* [Nukemarine's Suggested Guide for Beginners](https://forum.koohii.com/thread-5110.html) - A roadmap aimed at people involved in a career where one can only spare 1 to 2 hours a day for study.
+	* [Nukemarine's Suggested Guide for Beginners](https://web.archive.org/web/20190309070013/https://forum.koohii.com/thread-5110.html) - A roadmap aimed at people involved in a career where one can only spare 1 to 2 hours a day for study.
 	* [Grammar Guide to Japanese](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim (there also exists the "Complete Guide to Japanese" by Tae Kim, this is a work in progress/not yet complete).
 
 2. A summary of the guides is basically this:  first, learn hiragana and katakana using the links in [the section further down this page](#hiragana-and-katakana).  The Tofugu links are good.
@@ -65,7 +65,8 @@ Description: The second edition of the most highly regarded teaching textbook on
 	* [Genki 2 Textbook](http://amzn.to/2uqnJBh) | [Genki 2 Workbook](http://amzn.to/2sX7RBQ)
 	* [Genki Answer Key](http://amzn.to/2sX4ZF8)
 * Anki Deck:card_index:
-	* [Genki 1 & 2 ](https://ankiweb.net/shared/info/1132238466) - ALL the vocab from Genki 1 & 2 and more. :warning:Still updating.
+	* [Genki 1 & 2 COMPLETE book 1 + JLPT N5 N4](https://ankiweb.net/shared/info/1132238466) - ALL the vocab, grammar and sentences from Genki 1 & 2, JLPT N5 & N4 vocab not present in Genki. :warning: Project dropped.
+	* [Genki 2nd Edition Vocabulary](https://ankiweb.net/shared/info/1132238466) - compilation of vocabulary both from Grammar and Reading sections of both Genki 1 & 2.
 * [Google Drive](https://drive.google.com/open?id=0B7RbJJM_m3GDUGw3VFlVWkd0bjA)
 
 ### Tobira:man:
@@ -85,7 +86,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 ## Course
 * [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
-* [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons:man:
+* [Erin's Challenge](https://www.erin.jpf.go.jp/) - Video based Japanese lessons:man:
 * [LingoDeer](https://www.lingodeer.com/) - Japanese course on a new learning app similar to Duolingo, but made with a focus on East Asian languages.:iphone:
 
 ## Hiragana and Katakana
@@ -107,7 +108,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	
 ## Kanji
 
-* [Hacking Kanji](https://nihongoshark.com/learn-kanji/) - Guide: 2,200 Kanji in 97 Days.
+* [Hacking Kanji](https://courses.nihongoshark.com/courses/hacking-japanese-study-guide/lectures/292582) - Guide: 2,200 Kanji in 97 Days.:moneybag:
 * [Kanji Koohii](https://kanji.koohii.com/) - Help you complete the kanji learning method called Remembering the Kanji.
 * [Kanji Damage](http://www.kanjidamage.com/introduction) - A Kanji learning method.
 * [Wanikani](https://www.wanikani.com/) - Kanji learning platform.:moneybag:
@@ -172,7 +173,8 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [LangCorrect](https://langcorrect.com) - A language learning platform where native speakers correct what you write. Responsive on all devices :iphone:
 * [Discord](https://discordapp.com/) - Popular chatroom platform.:iphone::computer:
 	* [English-Japanese Language Exchange](https://discord.gg/NJJCYVD) - Highly active English/Japanese discord chat server.
-	* [日本語と英語](https://discord.gg/0eIsYvFQul270V1L) - Another popular English/Japanese discord chat server.
+	* [日本語と英語](https://discord.gg/STHgA9z) - Another popular English/Japanese discord chat server.
+	* [The Language Exchange Network](https://discord.gg/jxcVmHJ) - A read-only meta server with a list of all language learning Discord servers. Check `#east_asian_languages` for Japanese servers.
 	* [Reddit Masterlist](https://www.reddit.com/r/languagelearning/comments/5m5426/discord_language_learning_servers_masterlist/) A list on Reddit of all the language Discord servers.  Scroll down to the East Asian Languages section for Japanese servers.
 * [HelloTalk](https://www.hellotalk.com/) - Popular language exchange app.:iphone:
 
@@ -187,10 +189,10 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * News
     * [BBC News in Japanese](https://www.youtube.com/channel/UCCcey5CP5GDZeom987gqTdg) BBC News in Japanese langauge YouTube channel.
     * [Asahi News](https://www.youtube.com/user/ANNnewsCH) - Asahi News YouTube channel.
-	* [Asahi News Live](https://www.youtube.com/watch?v=Fu2etwHzcvw) - 24/7 Asahi News Live stream.
+	* [Asahi News Live](https://www.youtube.com/watch?v=coYw-eVU0Ks) - 24/7 Asahi News Live stream.
 	* [Fuji News Network](http://www.fnn-news.com/) - FNN live and vod.
 	* [News24](http://www.news24.jp/) - News24 Channel live and vod.
-	* [Weather News Live](https://www.youtube.com/watch?v=kfTq_A9nBM0) - 24/7 Japanese Weather Channel Live stream.
+	* [Weather News Live](https://www.youtube.com/watch?v=MVavOk-B68o) - 24/7 Japanese Weather Channel Live stream.
 * Stream
 	* [QVC Japan](http://qvc.jp/cont/live/Main?sc_initcmp=icpc_TOP_Left-Menu_005) - QVC Japan Shopping Channel Live stream. :warning:Flash required.
 	* [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/) - Free Japanese TV Live stream listing.:warning:Some channels may not work, and 3rd party streaming service.
@@ -198,7 +200,6 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [GYAO!](https://gyao.yahoo.co.jp/) - Japanese TV programs on demand.:iphone::japan:
 	* [FRESH!](https://freshlive.tv/) - Japanese streamer platform.:iphone:
 	* [NicoNico](http://www.nicovideo.jp/) - Japanese streamer platform.:iphone:
-	* [DaiWEEB](https://www.daiweeb.org/) - Japanese anime with both Japanese and English subtitles.
     
 ## Dictionary
 
@@ -222,7 +223,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 		* [Rikaichamp](https://addons.mozilla.org/en-US/firefox/addon/rikaichamp/) - Japanese to English/German/French/Russian dictionary. Just hover the mouse on top of a word, and a popup appears. This add-on is more competible with latest Firefox version and comes with dictionaries files. 
 	* Chrome
 		* [Yomichan](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami) - Yomichan turns your browser into a tool for building Japanese language literacy by helping you to decipher texts which would be otherwise too difficult tackle.
-		* [rikaigu](https://chrome.google.com/webstore/detail/rikaigu/gmgccdlimakdipjjogccblkaoipdklcb) - Rikaikun enhanced. Translate Japanese by hovering over words.
+		* [rikaigu](https://github.com/alextsui05/rikaigu.we) - Rikaikun enhanced. Translate Japanese by hovering over words.
 		* [IPA furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) - Looks up the readings for kanji words and inserts them as furigana. 
 	* Safari
 		* [Safarikai](https://ashchan.github.io/safarikai/) - Rikaichan's Safari extension version.
