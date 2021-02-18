@@ -39,6 +39,7 @@
 	* [Japanese Walkthrough](http://japaneselevelup.com/japanese-quest-walkthrough/) - A visual learning guide.
 	* [Nukemarine's Suggested Guide for Beginners](https://web.archive.org/web/20190309070013/https://forum.koohii.com/thread-5110.html) - A roadmap aimed at people involved in a career where one can only spare 1 to 2 hours a day for study.
 	* [Grammar Guide to Japanese](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim (there also exists the "Complete Guide to Japanese" by Tae Kim, this is a work in progress/not yet complete).
+	* [Sakubi Grammar](https://sakubi.neocities.org/) - Very straight-to-the-point Japanese grammar guide. Great to get a foundation without holding your hand too much.
 
 2. A summary of the guides is basically this:  first, learn hiragana and katakana using the links in [the section further down this page](#hiragana-and-katakana).  The Tofugu links are good.
 
@@ -48,7 +49,9 @@
 
 	For translating, avoid using Google Translate.  Instead, one of these websites: [Jisho.org: Japanese Dictionary](http://jisho.org/) or [Tangorin Japanese Dictionary](http://tangorin.com/)
 
-4. That's it.  There are many, many paths to learning Japanese.  The most important thing is to choose the one you enjoy.  If you don't enjoy your study, you won't succeed, so keep searching until you find the resource or study method that you enjoy.  Look through all the resources below, ask someone if you need help, and good luck.
+4. Keep immersing in Japanese material and do a little bit every day. You'll improve in no time. Refer to [this loop diagram](https://morg.systems/58465ab9.html) as broad step-by-step representation.
+
+There are many, many paths to learning Japanese.  The most important thing is to choose the one you enjoy.  If you don't enjoy your study, you won't succeed, so keep searching until you find the resource or study method that you enjoy.  Look through all the resources below, ask someone if you need help, and good luck.
 
 ## Textbook
 
